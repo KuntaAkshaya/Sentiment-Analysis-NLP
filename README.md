@@ -95,6 +95,9 @@ The following preprocessing steps were applied:
 - Deploy as a web application  
 
 ---
+View Full Notebook:
+https://nbviewer.org/github/KuntaAkshaya/Sentiment-Analysis-using-NLP-Pipeline-ML-Models-/blob/main/NLP_Sentiment_Analysis_Pipeline.ipynb
 
+---
 ## 👩‍💻 Author
 **K. Akshaya**
